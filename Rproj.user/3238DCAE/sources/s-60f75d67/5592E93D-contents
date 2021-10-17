@@ -1,0 +1,7 @@
+[Verushash]
+wallet = DTsu49wXhGQ7yGWuRYsnz4EmC55Xg6YkrE
+coin = Cod_Moeda
+rigName = cocol4
+rigPassword = c=DGB,mc=VRSC
+pool1 = verushash.mine.zergpool.com:3300
+cpuThreads = 8
