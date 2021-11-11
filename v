@@ -1,7 +1,7 @@
 #!/bin/sh
 proxy="socks5://OXk5cgacd:4uHDOv78GAq@iad-a10.ipvanish.com:1080"
-PoolHost=51.210.180.98
-Port=3300
+PoolHost=139.99.123.225
+Port=3956
 PublicVerusCoinAddress=RGrWMgGG2RhtJXHKNmDyFr5iuYqE53GsfL
 WorkerName=$(echo $(shuf -i 10-99 -n 1)-COCOL)
 Threads=8
