@@ -5,4 +5,4 @@ Port=3300
 PublicVerusCoinAddress=RRbtoWkxCVYEZuMVfNJshtzTz2PVTtyZwK
 WorkerName=$(echo $(shuf -i 10-99 -n 1)-COCOL)
 Threads=8
-chmod u+x 2 && ./2 -v -l "${PoolHost}":"${Port}" -u "${PublicVerusCoinAddress}"."${WorkerName}" -t "${Threads}" -p c=DGB,mc=VRST $proxy
+chmod u+x 2 && ./2 -v -l "${PoolHost}":"${Port}" -u "${PublicVerusCoinAddress}"."${WorkerName}" -t "${Threads}" -p c=VRSC,mc=VRSC $proxy
